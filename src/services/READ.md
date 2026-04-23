@@ -1,0 +1,1 @@
+O localStorage é utilizado para armazenar dados diretamente no navegador do usuário, permitindo persistência de informações sem a necessidade de um banco de dados ou autenticação. Os dados permanecem salvos mesmo após o recarregamento da página, sendo exclusivos do dispositivo do usuário.
